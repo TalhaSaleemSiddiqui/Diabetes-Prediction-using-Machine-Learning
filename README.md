@@ -8,6 +8,7 @@ A machine learning project that predicts the likelihood of diabetes in patients 
 - [Dataset](#dataset)
 - [Project Workflow](#project-workflow)
 - [Models](#models)
+- [Visualization](#visualization)
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -65,6 +66,26 @@ The dataset (`final dataset.csv`) is the well-known **Pima Indians Diabetes Data
 | KNN | `KNeighborsClassifier` | `n_neighbors=5` |
 | Naive Bayes | `GaussianNB` | default parameters |
 | ANN | `MLPClassifier` | `hidden_layer_sizes=(12,)`, `solver='adam'`, `max_iter=5000`, `random_state=2` |
+
+## Visualization
+
+### 1. K-Nearest Neighbors (KNN)
+![KNN](<KNN.png>)
+![KNN Confusion Matrix & ROC plot](<KNN CM & ROC.png>)
+
+### 2. Gaussian Naive Bayes
+![Gaussian Naive Bayes](<Gaussian Naive Bayes.png>)
+![Gaussian Naive Bayes CM & ROC plot](<Gaussian Naive Bayes CM & ROC.png>)
+
+### 3. Artificial Neural Network (ANN)
+![Artificial Neural Network](<Artificial Neural Network.png>)
+![ANN Confusion Matrix & ROC plot](<ANN CM & ROC.png>)
+
+### 4. Model Comparison
+![Algorithms Comparison](<Algorithms Comparison.png>)
+
+
+
 
 ## Results
 
