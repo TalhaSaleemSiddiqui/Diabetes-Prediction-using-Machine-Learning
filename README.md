@@ -136,13 +136,13 @@ python "Diabetes Prediction Code.py"
 .
 ├── Diabetes Prediction Code.py       # Main script: preprocessing, training, evaluation
 ├── final dataset.csv                 # Diabetes dataset 
-├── KNN.heic                           # KNN metrics output
-├── KNN CM & ROC.heic                 # KNN confusion matrix + ROC curve
-├── Gaussian Naive Bayes.heic           # Naive Bayes metrics output
-├── Gaussian Naive Bayes CM & ROC.heic  # Naive Bayes confusion matrix + ROC curve
-├── Artificial Neural Network.heic      # ANN metrics output
-├── ANN CM & ROC.heic                   # ANN confusion matrix + ROC curve
-├── Algorithms Comparison.heic          # Algorithms(KNN,Naive Bayes, ANN) Comparison based on accuracies 
+├── KNN.png                           # KNN metrics output
+├── KNN CM & ROC.png                # KNN confusion matrix + ROC curve
+├── Gaussian Naive Bayes.png           # Naive Bayes metrics output
+├── Gaussian Naive Bayes CM & ROC.png  # Naive Bayes confusion matrix + ROC curve
+├── Artificial Neural Network.png      # ANN metrics output
+├── ANN CM & ROC.png                   # ANN confusion matrix + ROC curve
+├── Algorithms Comparison.png          # Algorithms(KNN,Naive Bayes, ANN) Comparison based on accuracies 
 └── README.md                         # Project documentation
 ```
 
